@@ -1,4 +1,7 @@
 node_modules
+.vscode-test/
+out/
+dist
 node_modules_container
 docs
 .git
@@ -8,6 +11,6 @@ jdl/**/.jhipster/**
 **/jdl-core.min.js
 **/generated-serialized-grammar.js
 test/fixtures/**
-dist
+dist/
 .env
 coverage
